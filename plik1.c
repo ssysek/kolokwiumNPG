@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
+#include <random>
 void quicksort(int tablica[10], int x, int y)
 {
 int i,j,v,temp;

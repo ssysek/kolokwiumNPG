@@ -1,1 +1,1 @@
-Maciej Syska
+Maciej Maksymilian Syska

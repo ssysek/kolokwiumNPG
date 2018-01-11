@@ -1,5 +1,5 @@
 #include <iostream>
-#define N 30
+
  
 using namespace std;
  

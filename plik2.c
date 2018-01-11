@@ -1,4 +1,5 @@
 #include<iostream>
+#inlcude <time.h>
 using namespace std;
  
 void countingsort(int A[], int B[], int k, int rozmiar)
